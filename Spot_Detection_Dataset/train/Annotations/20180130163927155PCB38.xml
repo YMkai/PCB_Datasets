@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20180130163927155PCBcut</folder>
+	<filename>20180130163927155PCB38.jpg</filename>
+	<path>D:\project\xll\20180130163927155PCBcut\20180130163927155PCB38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>33</ymin>
+			<xmax>137</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>
